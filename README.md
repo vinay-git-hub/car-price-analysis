@@ -1,4 +1,4 @@
-# Automobile Price Analysis and Prediction
+# Car Price Analysis and Prediction
 
 A beginner-level end-to-end data analysis and regression project using the UCI Automobile dataset. I used this project to practise data cleaning, exploratory analysis, feature transformations, preprocessing, regression modelling and model evaluation.
 
